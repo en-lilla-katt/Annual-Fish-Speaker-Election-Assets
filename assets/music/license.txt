@@ -1,3 +1,0 @@
-sound_id (first character) list: License info
----
-0,1,2,3,4: https://pixabay.com/de/service/license-summary/
