@@ -1,0 +1,1 @@
+JetBrainsMono-*.ttf https://www.jetbrains.com/lp/mono/#license

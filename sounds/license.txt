@@ -1,0 +1,4 @@
+sound_id (first character) list: License info
+---
+0,1,2,3,4,5,6,7: https://pixabay.com/de/service/license-summary/
+2_edited*.wav is a remix of 2*.mp3.
